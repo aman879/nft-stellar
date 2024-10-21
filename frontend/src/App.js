@@ -29,7 +29,7 @@ const pinata = new PinataSDK({
   pinataGateway: "beige-sophisticated-baboon-74.mypinata.cloud",
 });
 
-const CONTRACT_ID = "CDOPRQGCDTMJWHQCBBBOUOLJY6LCLZO5D7GXVNTEB6ROXJKDHML4WGXC";
+const CONTRACT_ID = "CCCRVPLY4SLPYSSFD7C4CYK5PJQEFTCYQD7X2WF2MJRZQUP5UH4TTRIQ";
 const NETWORK_PASSPHRASE = Networks.TESTNET;
 const SOROBAN_URL = "https://soroban-testnet.stellar.org";
 
